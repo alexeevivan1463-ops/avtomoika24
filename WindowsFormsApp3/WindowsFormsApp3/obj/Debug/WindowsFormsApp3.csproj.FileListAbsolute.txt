@@ -1,0 +1,32 @@
+C:\Users\Пользователь\Desktop\Новая папка (2)\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Пользователь\Desktop\Новая папка (2)\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Пользователь\Desktop\Новая папка (2)\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Пользователь\Desktop\Новая папка (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Новая папка (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Пользователь\Desktop\Новая папка (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Новая папка (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\Новая папка (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Новая папка (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Пользователь\Desktop\Новая папка (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Пользователь\Desktop\Новая папка (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\Пользователь\Desktop\Новая папка (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+C:\Users\Пользователь\Desktop\Новая папка (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form4.resources
+C:\Users\Пользователь\Desktop\Новая папка (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form6.resources
+C:\Users\Пользователь\Desktop\Новая папка (2)\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Database11.accdb
+C:\Users\Пользователь\Desktop\Новая папка (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form7.resources
+E:\Бекап флешки\!Группа\New folder\Алексеев\Новая папка (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+E:\Бекап флешки\!Группа\New folder\Алексеев\Новая папка (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\Бекап флешки\!Группа\New folder\Алексеев\Новая папка (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+E:\Бекап флешки\!Группа\New folder\Алексеев\Новая папка (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+E:\Бекап флешки\!Группа\New folder\Алексеев\Новая папка (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form4.resources
+E:\Бекап флешки\!Группа\New folder\Алексеев\Новая папка (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form6.resources
+E:\Бекап флешки\!Группа\New folder\Алексеев\Новая папка (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form7.resources
+E:\Бекап флешки\!Группа\New folder\Алексеев\Новая папка (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\Бекап флешки\!Группа\New folder\Алексеев\Новая папка (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\Бекап флешки\!Группа\New folder\Алексеев\Новая папка (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\Бекап флешки\!Группа\New folder\Алексеев\Новая папка (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\Бекап флешки\!Группа\New folder\Алексеев\Новая папка (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\Бекап флешки\!Группа\New folder\Алексеев\Новая папка (2)\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Database11.accdb
+E:\Бекап флешки\!Группа\New folder\Алексеев\Новая папка (2)\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\Бекап флешки\!Группа\New folder\Алексеев\Новая папка (2)\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\Бекап флешки\!Группа\New folder\Алексеев\Новая папка (2)\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
